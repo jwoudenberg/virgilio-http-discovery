@@ -1,0 +1,11 @@
+{
+  "name": "virgilio-http-discovery",
+  "version": "0.1.0",
+  "description": "A discovery service for Virgilio http endpoints",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jasper Woudenberg",
+  "license": "Apache-2.0"
+}
